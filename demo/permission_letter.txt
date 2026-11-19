@@ -1,0 +1,5 @@
+DEMO ONLY. For real clients, keep the signed PDF here and point letter_file at it.
+
+Acme Store (demo) authorizes [Tester] to test the ShopBot chat at 127.0.0.1
+from 2026-01-01 to 2030-12-31, using the test accounts tester-a and tester-b.
+Signed: Demo Founder, CEO
